@@ -1,0 +1,21 @@
+body{
+    background-color: cornflowerblue;
+}
+header h1{
+    color: red;
+    display: inline-block;
+    background-color: black;
+}
+header ol{
+        color: blue;
+        float: right;
+        display: inline-block;
+        background-color: black;  
+}
+#primero{
+    color: white;
+}
+
+#fotogrupo{
+    margin: 10px 500px 
+}
